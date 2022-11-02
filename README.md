@@ -5,11 +5,11 @@
 ## Install
 
 ```bash
-npm install @rbonillajr/nestjs-fastify-loader
+npm install nestjs-fastify-loader
 ```
 Or, if you use yarn
 ```bash
-yarn add @rbonillajr/nestjs-fastify-loader
+yarn add nestjs-fastify-loader
 ```
 
 ## Documentation
