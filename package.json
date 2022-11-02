@@ -1,6 +1,6 @@
 {
   "name": "@rbonillajr/nestjs-fastify-loader",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Nestjs fastify loader is custom module for inject any fastify plugin",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
