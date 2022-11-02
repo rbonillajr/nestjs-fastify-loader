@@ -54,6 +54,7 @@ export class ExampleModule {}
 import { Module } from '@nestjs/common';
 import { FastifyLoaderModule } from '@rbonillajr/nestjs-fastify-loader';
 import proxy from 'plugin path'
+
 const plugins = [];
 plugins.push(proxy);
 
