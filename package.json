@@ -12,10 +12,10 @@
     "*.md"
   ],
   "bugs": {
-    "url": "https://github.com:rbonillajr/nestjs-fastify-loader/issues"
+    "url": "https://github.com/rbonillajr/nestjs-fastify-loader/issues"
   },
   "homepage": "https://github.com/rbonillajr/nestjs-fastify-loader#readme",
-  "repository": "https://github.com:rbonillajr/nestjs-fastify-loader.git",
+  "repository": "https://github.com/rbonillajr/nestjs-fastify-loader.git",
   "author": "Rene Bonilla <rbonillajr@hotmail.com>",
   "license": "MIT",
   "scripts": {
